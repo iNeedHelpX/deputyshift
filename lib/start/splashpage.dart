@@ -19,7 +19,7 @@ class SplashScreen extends StatelessWidget {
               height: 300,
               width: 300,
               child: Lottie.asset(
-                  "https://assets4.lottiefiles.com/packages/lf20_2Lm1d0.json"),
+                  "https://assets7.lottiefiles.com/packages/lf20_5mvriq8x.json"),
             )
           ],
         ),
