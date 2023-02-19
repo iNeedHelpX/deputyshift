@@ -3,14 +3,14 @@ import 'package:deputyshift/start/splashpage.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-class Start extends StatefulWidget {
-  Start({Key? key}) : super(key: key);
+class StartApp extends StatefulWidget {
+  StartApp({Key? key}) : super(key: key);
 
   @override
-  State<Start> createState() => _StartState();
+  State<StartApp> createState() => _StartAppState();
 }
 
-class _StartState extends State<Start> {
+class _StartAppState extends State<StartApp> {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
